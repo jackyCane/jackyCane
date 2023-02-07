@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jackyCane, I'm from Ukraine and I'm a future frontend developer
-- 👀 I’m interested in becoming a frontend developer and getting a job in that field
-- 🌱 I’m currently learning React and trying to build my own projects to get more experience
+- 👋 Hi, I’m @jackyCane, I'm from Ukraine and I'm a beginner frontend developer
+- 👀 I’m looking for a job in that field in order to impove my skills and be able to take care of myself
+- 🌱 I`ve already learned Javascript and React JS and am currently building my own projects to gain more experience
 - 💞️ I’m looking for a collaboration on other developers, who learn the same thing as I do
 - 📫 You can reach me on my e-mail: jackyarrow135@gmail.com
 
